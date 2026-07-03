@@ -1,5 +1,3 @@
-<div align="center">
-  
 # 📰 TruthLens AI
 
 <div align="center">
